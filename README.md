@@ -2,7 +2,9 @@
 ![FINANCE (4)](handshake-4011419_1280.jpg)
 
 ## Overview : 
-This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
+Best Investment Choices: Apple (AAPL), Microsoft (MSFT), Google (GOOG), and NVIDIA (NVDA) > Strong revenue, high ROE, positive EPS, and high ROI.
+Risky Investments: AIG, SHLDQ, and PCG > Negative net income, poor EPS, and low financial returns.
+Sectors to Focus On: Technology and IT sectors show the highest profitability, while banking and logistics sectors have moderate returns..
 
 ## Tool used :
 <img src="./eXCEL.jpg" width="300" height="150"/>&nbsp;
