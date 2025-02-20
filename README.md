@@ -20,7 +20,7 @@ Sectors to Focus On: Technology and IT sectors show the highest profitability, w
 - AIG and SHLDQ report negative net profits, indicating financial distress and poor profitability.
 - The overall Net Profit Margin is 2200%, suggesting high profitability across selected companies.
 
-### Financial Performance Indicators :
+#### Financial Performance Indicators :
 
 ## Return on Equity (ROE):
 - Apple (AAPL) has a remarkably high ROE, showing efficient use of equity.
@@ -38,7 +38,7 @@ Sectors to Focus On: Technology and IT sectors show the highest profitability, w
 ## Earnings Per Share (EPS) Analysis :
 - Microsoft (MSFT) has the highest EPS at 86.40, making it a strong choice for investors.
 - Apple (AAPL), Google (GOOG), and Amazon (AMZN) also have positive EPS, showing steady earnings.
-- AIG and SHLDQ have negative EPS (-36.11 and -98.21, respectively), which signals financial troubles and possible investor losses.
+- AIG and SHLDQ have negative EPS, which signals financial troubles and possible investor losses.
 
 ## Dashboard :
 <img src="./DASHBOARD.png" width="3000" height="600"/>&nbsp;
