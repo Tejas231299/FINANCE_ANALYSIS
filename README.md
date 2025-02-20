@@ -20,7 +20,7 @@ Sectors to Focus On: Technology and IT sectors show the highest profitability, w
 - AIG and SHLDQ report negative net profits, indicating financial distress and poor profitability.
 - The overall Net Profit Margin is 2200%, suggesting high profitability across selected companies.
 
-#### Financial Performance Indicators :
+# Financial Performance Indicators :
 
 ## Return on Equity (ROE):
 - Apple (AAPL) has a remarkably high ROE, showing efficient use of equity.
